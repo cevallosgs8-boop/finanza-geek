@@ -1,0 +1,27 @@
+{
+  "source": "https://github.com/google/fonts",
+  "retrieved": "2026-10-19",
+  "license": "SIL Open Font License 1.1",
+  "files": [
+    {
+      "file": "VT323-Regular.ttf",
+      "bytes": 153116,
+      "sha256": "cf4de751ada78ceac033dbe16a687742939995b77bc2a052ae17a4957958594d"
+    },
+    {
+      "file": "VT323-OFL.txt",
+      "bytes": 4367,
+      "sha256": "27d9af34210253e7ca1251fbace86c6f65b40031d6ce1a75493a1b2093631298"
+    },
+    {
+      "file": "PressStart2P-Regular.ttf",
+      "bytes": 118204,
+      "sha256": "034c77f1f05ec89421e4a63f0e3a4ca1ecf852cc6d2bf611f126f275728e017d"
+    },
+    {
+      "file": "PressStart2P-OFL.txt",
+      "bytes": 4413,
+      "sha256": "705960c3281a5765ecc0b59bd4ed7ca59eed165748076bc2fc3e8fdbfeb944b0"
+    }
+  ]
+}

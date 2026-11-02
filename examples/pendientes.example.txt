@@ -1,0 +1,1 @@
+fecha;hora;comercio;monto;tarjeta;tipo;moneda;categoría\n2026-10-19;12:30;Mercado Azul;5.00;Tarjeta ficticia A;expense;USD;Comida\n;;Librería Norte;8.50;Tarjeta ficticia A;expense;USD;Libros\n

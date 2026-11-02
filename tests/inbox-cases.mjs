@@ -1,0 +1,5 @@
+export const csvCases = [
+'2026-10-01;09:10;Panadería;1.25;1234','01/10/2026;10:11;Cafe;2,50;4321;expense;USD;Comida','2026-10-03;11:00;Tienda;10;Tarjeta azul','2026-10-04;12:00;Farmacia;4.99;1111;expense;USD;Salud','2026-10-05;13:00;Mercado;0.50;2222','2026-10-06;14:00;\"Comercio; Centro\";3.10;3333','2026-10-07;15:00;\"Comercio\nNorte\";6.20;4444','2026-10-08;16:00;Devolución;-8.00;5555;refund;USD;Reembolsos','2026-10-09;17:00;Cargo externo;12.34;6666;expense;EUR;Viaje','2026-10-10;18:00;Sin tarjeta;7;'
+];
+export const bankACases = Array.from({length:10},(_,i)=>({text:'Consumiste '+(i+1).toFixed(2)+' en Comercio '+(i+1)+' con tu tarjeta 1234',template:{id:'bank-a',name:'Banco A ficticio',type:'expense',pattern:'Consumiste {amount} en {merchant} con tu tarjeta {card}'}}));
+export const bankBCases = Array.from({length:10},(_,i)=>({text:'Se ha realizado un pago de '+(i+1).toFixed(2)+' desde su cuenta No 4321 correspondiente a Comercio '+(i+1)+'.',template:{id:'bank-b',name:'Banco B ficticio',type:'expense',pattern:'Se ha realizado un pago de {amount} desde su cuenta No {card} correspondiente a {merchant}.'}}));

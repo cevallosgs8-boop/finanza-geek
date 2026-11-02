@@ -1,0 +1,37 @@
+EJEMPLOS FICTICIOS. Pega un bloque a la vez, sin la línea separadora.
+
+Cafe Nube
+20/10/2026
+SUBTOTAL 10.00
+IVA 1.50
+TOTAL 11.50
+
+---
+
+Comedor Faro
+19/10/2026
+SUBTOTAL 20.00
+PROPINA 2.00
+TOTAL A PAGAR 22.00
+EFECTIVO 30.00
+CAMBIO 8.00
+
+---
+
+Mercado Verde
+18/10/2026
+SUBTOTAL 12,00
+IVA 1,80
+IMPORTE TOTAL 13,80
+
+---
+
+Tienda del Centro
+17/10/2026
+TOTAL 15.00
+TOTAL A PAGAR 18.00
+
+---
+
+???
+borroso sin cifras reconocibles

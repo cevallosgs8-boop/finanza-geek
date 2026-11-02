@@ -1,0 +1,14 @@
+[
+  {
+    "id": "bank-a-purchase-example",
+    "name": "Banco A — compra ficticia",
+    "pattern": "Consumiste ${amount} en {merchant} con tu tarjeta {card}",
+    "type": "expense"
+  },
+  {
+    "id": "bank-b-payment-example",
+    "name": "Banco B — pago ficticio",
+    "pattern": "Se ha realizado un pago de ${amount} desde su cuenta No {card} correspondiente a {merchant}.",
+    "type": "expense"
+  }
+]
