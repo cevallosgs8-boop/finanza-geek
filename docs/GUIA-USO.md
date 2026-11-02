@@ -5,6 +5,9 @@ Finanza Geek es una PWA individual para registrar y planificar finanzas en USD, 
 ## Empezar
 Abre la app y crea una cuenta con el saldo inicial. Registra ingresos, gastos o transferencias en Movimientos; revisa importe, fecha y cuenta antes de guardar. Préstamos distingue lo que debes de lo que te deben. Planificar reúne calendario, recurrentes, presupuesto, metas, fondos, asesor y conciliación. La interfaz predeterminada sigue el modo claro/oscuro del sistema. El juego acompaña y nunca convierte XP en dinero.
 
+## Configurar el iPhone
+Abre Ajustes y respaldo y elige **Configurar mi iPhone**, al inicio. Allí puedes desplegar Atajos, Calendario, Recibos o Buzón. Los enlaces de gasto e ingreso se copian manualmente; los pasos de calendario, Fotos y Atajos se realizan en tu teléfono. Revisar una propuesta no cambia saldos hasta confirmar el movimiento.
+
 ## Instalar y usar sin conexión
 En Safari abre la dirección HTTPS de tu instalación y usa Compartir > Agregar a la pantalla de inicio. La primera carga requiere conexión; después se guarda el código necesario para abrir sin red. Una dirección127.0.0.1 del computador no da acceso desde el iPhone. No se ha validado físicamente cada versión de iOS; los nombres de los controles pueden variar.
 
