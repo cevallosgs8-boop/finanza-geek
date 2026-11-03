@@ -23,3 +23,6 @@ El borrado total presenta dos pasos. Primero ofrece exportar una copia y continu
 
 ## Límites
 Las tasas y sus vigencias se revisan en los ajustes fiscales; no son una garantía de normativa vigente ni asesoría financiera. Esta candidata usa USD y español; no incorpora conversión de monedas ni traducción general. El buzón y los recibos contienen propuestas que debes revisar. No hay OCR interno ni avisos push desde la app cerrada. El sistema puede eliminar almacenamiento del sitio: instalación y PIN no sustituyen respaldos externos.
+
+## Consultar el historial por fechas
+En Movimientos, abre **Filtrar por fechas**. **Desde** y **Hasta** incluyen el día elegido; un campo vacío deja ese extremo abierto. Se combina con Buscar, Tipo y Cuenta, incluida la cuenta destino de una transferencia. Si el rango no es válido, corrígelo o usa **Limpiar filtros**. El conteo muestra coincidencias frente al total del historial. Consultar no cambia los movimientos ni los saldos. Los filtros se conservan en la memoria de esta pestaña y se borran al bloquear u ocultar la app.

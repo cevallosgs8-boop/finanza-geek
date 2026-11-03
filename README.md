@@ -1,4 +1,4 @@
-# Finanza Geek · candidata1.0
+# Finanza Geek · candidata v1.1
 
 PWA personal de finanzas para iPhone, con almacenamiento local, USD y textos en español. Combina cuentas, movimientos, préstamos, planificación, metas, mascotas pixel art, buzón y asesor. No requiere una API de servidor ni conecta bancos. No constituye asesoría financiera.
 
@@ -11,3 +11,5 @@ Lee la [guía de uso](docs/GUIA-USO.md), [privacidad](docs/PRIVACIDAD.md) y [con
 La candidata no tiene validación física completa en Safari, cámara o Atajos. Revisa los campos importados antes de confirmar; no hay OCR interno ni notificaciones push con la app cerrada. Las tasas fiscales opcionales deben comprobarse para la fecha de uso.
 
 Puedes preparar [Anotar gasto y Anotar ingreso con Atajos](docs/ATAJOS-RAPIDOS.md), con confirmación manual dentro de la app.
+
+En Movimientos, usa **Filtrar por fechas** para acotar el historial. Desde y Hasta incluyen ambos días; puedes dejar cualquiera vacío. El conteo refleja todos los filtros activos. **Limpiar filtros** recupera la lista completa.

@@ -654,6 +654,45 @@ a {
 .filters .search-field {
   grid-column:1/-1
 }
+.filters .history-date-filter {
+  grid-column:1 / -1;
+  min-width:0;
+  border-top:1px solid var(--line-soft);
+  padding-top:4px
+}
+.history-date-filter summary {
+  min-height:44px;
+  display:flex;
+  align-items:center;
+  width:fit-content;
+  padding:0 8px;
+  font-weight:650;
+  cursor:pointer
+}
+.history-date-fields {
+  display:grid;
+  grid-template-columns:minmax(0,1fr) minmax(0,1fr);
+  gap:10px;
+  min-width:0;
+  padding:8px 0 4px
+}
+.history-date-fields .field {min-width:0}
+.history-date-fields input {min-width:0}
+.history-filter-error {
+  margin:8px 0 0;
+  color:var(--danger);
+  font-size:.9rem
+}
+.history-count {
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content:space-between;
+  gap:8px;
+  min-height:44px;
+  color:var(--muted);
+  font-size:.9rem
+}
 .field {
   display:grid;
   gap:6px;
